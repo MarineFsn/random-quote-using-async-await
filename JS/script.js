@@ -38,7 +38,12 @@ async function generateQuote() {
 function displayQuote(quoteData) {
   quoteElement.textContent = quoteData.quote;
   authorElement.textContent = quoteData.author;
-  document.getElementById("quote-image").src = quoteData.photo;
+  const quoteImage = document.getElementById("quote-image");
+  if (quoteData.photo) {
+    quoteImage.src = quoteData.photo;
+  } else {
+    quoteImage.src = "../Assets/img/suricat.jpg"
+  }
 }
 
 //Ecouteur d'évenement:

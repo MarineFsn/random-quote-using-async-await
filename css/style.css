@@ -18,6 +18,7 @@ body img {
   width: 75px;
   height: 75px;
   margin: 0 auto;
+  margin-bottom: -30px;
 }
 body blockquote {
   font-size: 24px;
