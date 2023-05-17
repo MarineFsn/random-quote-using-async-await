@@ -18,7 +18,7 @@ Users can click a button to generate a new quote, and the app will display the q
 
 <img src="https://img.shields.io/badge/Collaborators-1-red?style=for-the-badge&logo=appveyor" alt="Badge Collaborators" style="margin-right:10px;">
 
-
+https://marinefsn.github.io/random-quote-using-async-await/
 
 ---
 
