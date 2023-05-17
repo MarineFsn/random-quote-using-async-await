@@ -42,7 +42,7 @@ function displayQuote(quoteData) {
   if (quoteData.photo) {
     quoteImage.src = quoteData.photo;
   } else {
-    quoteImage.src = "../Assets/img/suricat.jpg"
+    quoteImage.src = "./Assets/img/suricat.jpg"
   }
 }
 
