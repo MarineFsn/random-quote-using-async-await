@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+
+body {
+    height: 100vh;
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    background-image: url(../Assets/img/quote.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+
+.quote-container {
+
+    margin: 0 auto;
+    width: 100%;
+    padding: 20px;
+    background-color:rgba(228, 231, 227, 0.527);
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+    img {
+       
+        border-radius: 50%;
+        width: 75px;
+        height: 75px;
+
+    }
+
+
+    blockquote {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+
+
+    cite {
+        font-size: 18px;
+        font-style: italic;
+        text-align: center;
+    }
+}
+
+
+button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #fff;
+    color: #141414;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+    &:hover {
+        background-color: #444b38;
+        color: #fff;
+    }
+}

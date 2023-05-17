@@ -26,13 +26,12 @@ async function generateQuote() {
     .then((quoteData) => {
       displayQuote(quoteData);
 
-    //console.log(quoteData);
+      //console.log(quoteData);
     })
     .catch((error) => {
       quoteElement.textContent = "Failed to fetch quote, Please try again!";
       authorElement.textContent = "";
     });
-    
 }
 
 //Display la citation:
