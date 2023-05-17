@@ -48,3 +48,4 @@ function displayQuote(quoteData) {
 
 //Ecouteur d'évenement:
 newQuoteButton.addEventListener("click", generateQuote);
+
