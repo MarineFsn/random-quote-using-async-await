@@ -12,7 +12,7 @@ Get inspired by random quotes in this interactive web app leveraging the Agify A
 <img src="https://img.shields.io/badge/Technos-HMTL5_/_SCSS_/_CSS3_/_JS_/_Git-green?style=for-the-badge&logo=appveyor" alt="Badge Technologies" style="margin-right:10px;">
 
 | Collaborators        | Github                        | Missions         
-| Marine Fassin        | https://github.com/MarineFsn  | All
+| Marine Fassin        | https://github.com/MarineFsn  | Everything
 
 
 <img src="https://img.shields.io/badge/Collaborators-1-red?style=for-the-badge&logo=appveyor" alt="Badge Collaborators" style="margin-right:10px;">
