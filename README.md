@@ -1,6 +1,7 @@
 # random-quote-using-async-await
 
-Get inspired by random quotes in this interactive web app leveraging the Agify API.
+Get inspired by random quotes in this simple web app that generates random quotes using an API.
+Users can click a button to generate a new quote, and the app will display the quote text and author's name.
 
 ## 🛠 Technos
 
